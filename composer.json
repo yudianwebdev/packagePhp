@@ -1,0 +1,19 @@
+{
+  "name": "malik/calculator",
+  "description": "ini kita belajar membuat packed",
+  "license": "mit",
+  "autoload": {
+    "psr-4": {
+      "Malik\\Calculator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "yudian nanda",
+      "email": "yudiannanwebdev@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {}
+}
