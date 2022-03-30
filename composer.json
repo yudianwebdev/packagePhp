@@ -4,7 +4,8 @@
   "license": "mit",
   "autoload": {
     "psr-4": {
-      "Malik\\Calculator\\": "src/"
+      "Malik\\Calculator\\": "src/",
+      "Malik\\Halloword\\": "lib/"
     }
   },
   "authors": [
