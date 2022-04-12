@@ -3,5 +3,5 @@
 ## Installation
 
 ```sh
-$ composer require lakuapik/calculator
+$ composer require malikwebdev/calculator
 ```
